@@ -4,7 +4,7 @@
   <img src="./assets/screenshot.png" alt="Omni for Kitty example" />
 </div>
 
-## [Install](https://github.com/Mdsp9070/kitty-omni/blob/master/INSTALL.md)
+## Install
 
 #### Install using config file
 
